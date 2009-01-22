@@ -1,0 +1,148 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <title>Habitat for Humanity London</title>
+      <link type="text/css" rel="stylesheet" href="style0.css" />
+      <link rel="shortcut icon" href="favicon.ico" />
+      <script language="javascript">
+attachNavbarHover = function() {
+    var navLIs = document.getElementById("navbar1").getElementsByTagName("li");
+    for (var i = 0; i < navLIs.length; i++) {
+        navLIs[i].onmouseover = function() { this.className = "mhover"; }
+        navLIs[i].onmouseout  = function() { this.className = ""; }
+    }
+}
+if (window.attachEvent)
+    window.attachEvent("onload", attachNavbarHover);
+    
+function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
+    target = document.getElementById(targetName);
+    link = document.getElementById(linkName)
+    if (target.style.display == "none") {
+        if (targetSrc)
+            target.setAttribute("src", targetSrc);
+        target.style.display = "block";
+        link.innerHTML = "hide " + typeOfTarget;
+    } else {
+        target.style.display = "none";
+        link.innerHTML = "show " + typeOfTarget;
+    }
+}
+      </script>
+      
+<!--[if IE]>
+<style>
+/* hack: IE and Firefox include border in width computation differently */
+.navbar ul li ul { width:131px; }
+.navbar ul li ul li a { width:126px; }
+#navbar2.navbar { height:4px }
+</style>
+<![endif]-->
+      
+   </head>
+   <body>
+      <div id="content">
+      <div id="head">
+      <div id="headbar"><div id="tinylinks" class="caption">
+      <a href="/">Home</a> &#8226; 
+      <a href="contact.html">Contact</a> &#8226; 
+      <a href="restore.html">ReStore</a> &#8226; 
+      <a href="http://www.flickr.com/photos/habitatlondon/">Photos</a>
+      </div><a href="index.html"><img id="logo" alt="" src="images/logo_main.png" width="262" height="61"/></a>
+        <object id="headbar_anim" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0">
+        <param name="allowScriptAccess" value="sameDomain" />
+        <param name="movie" value="images/headbar.swf" />
+        <embed src="images/headbar.swf" quality="high" bgcolor="#ffffff" name="headbar_anim" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+        </object>
+        <img id="greenline" src="images/greenline.png" alt="" width="435" height="1"/>
+      </div>
+      <div id="navbar1" class="navbar">
+        <ul>
+            <li style="left:0px"><a href="about.html"><div class="button" style="background-image:url('images/head_buttons_about.png')"> </div></a>
+            <ul>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="about.html">Our Story</a></li>
+            <li><a href="stories.html">Family Stories</a></li>
+            <li><a href="partners.html">Corporate Partners</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="http://habitat.ca/">Habitat Canada</a></li>
+            </ul>
+            </li>
+
+            <li style="left:172px"><a href="donate.html"><div class="button" style="background-image:url('images/head_buttons_donate.png')"> </div></a>
+            <ul>
+            <li><a href="donate.html">Donate Now</a></li>
+            <li><a href="donate_corporate.html">Corporate Support</a></li>
+            <li><a href="restore_donate.html">ReStore Donations</a></li>
+            <li><a href="donor_rights.html">Donor Bill of Rights</a></li>
+            </ul>
+            </li>
+
+            <li style="left:344px"><a href="participate_build.html"><div class="button" style="background-image:url('images/head_buttons_participate.png')"> </div></a>
+            <ul>
+            <li><a href="participate_build.html">Build Volunteers</a></li>
+            <li><a href="participate_committees.html">Committees</a></li>
+            <li><a href="participate_board.html">Board of Directors</a></li>
+            </ul>
+            </li>
+
+            <li style="left:516px"><a href="housing.html"><div class="button" style="background-image:url('images/head_buttons_housing.png')"> </div></a>
+            <ul>
+            <li><a href="housing.html">Build Volunteers</a></li>
+            <li><a href="housing.html">Committees</a></li>
+            <li><a href="housing.html">Board of Directors</a></li>
+            </ul>
+            </li>
+         </ul>
+      </div>
+      </div>
+      
+      
+      <table id="article" cellpadding="0" border="0"><tr><td valign="top">
+       <div style="font-style:italic;margin-bottom:2px;">
+       Welcome to Habitat for Humanity in London, Ontario, Canada.</div>
+       With Habitat, <b>100%</b> of your donation goes towards building homes.
+       Please give generously to help us build a better community.
+      <br />
+      <br />
+       <h2>News & Events</h2>
+       <table id="news" cellpadding="0" border="0">
+       <tr><td class="date"><b>Dec 18</b></td><td><a href="2008/HabitatMediaReleaseDec18.pdf">Art Project paintings available for silent auction</a> <span class="filetype">(PDF)</span></td></tr>
+       <tr><td class="date"><b>Oct 24</b></td><td><a href="2008/HabitatDedicationInvitation.pdf">House dedication ceremony is on Oct 26!</a> <span class="filetype">(PDF)</span></td></tr>
+       <tr><td class="date"><b>Oct 1</b></td><td><a href="2008/Habitat-Newsletter-Sponsors.pdf">Local events by our lead sponsors</a> <span class="filetype">(PDF)</span></td></tr>
+       </table>
+      
+       <br />
+       <h2>Build 2008</h2>
+       Our 2008 build took place at 1150 Kipps Lane in London, ON. <span style="font-size:10px">[<a id="showmaplink" style="font-size:10px" href='javascript:toggleVisible("buildmap", "showmaplink", "map","http://maps.google.ca/maps?hl=en&amp;safe=off&amp;client=firefox-a&amp;q=1150+Kipps+Lane+in+London,+on&amp;ie=UTF8&amp;s=AARTsJqETRJQc2t9aGXURvB1L4yMsrjJmA&amp;ll=43.004647,-81.2463&amp;spn=0.075321,0.145912&amp;z=12&amp;output=embed")'>show map</a>]</span>
+       <iframe id="buildmap" style="display:none;" width="415" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
+       Construction was a huge success, thanks to our many volunteers and partners.
+       
+       <div align="center">
+        <a href="http://www.flickr.com/photos/habitatlondon/2004832031/" title="IMG_1865 by Habitat for Humanity London Inc., on Flickr"><img src="http://farm3.static.flickr.com/2131/2004832031_86d0232c32_m.jpg" width="240" height="180" alt="IMG_1865" /></a>
+        <div class="caption">Build 2008 volunteers</div>
+       </div>
+       
+       
+       </td><td class="sidebar" valign="top">
+       
+       <div id="partners" style="z-index:0">
+       <h2>Full House Partners</h2>
+        <object id="partners_anim" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0">
+        <param name="allowScriptAccess" value="sameDomain" />
+        <param name="movie" value="images/partners.swf" />
+        <param name="wmode" value="transparent" />
+        <embed src="images/partners.swf" wmode="transparent" quality="high" bgcolor="#ffffff" name="partners_anim" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+        </object>
+        <div class="caption">
+        <a href="partners.html">Click here</a> for a complete list of <br />our local corporate partners.
+        </div>
+       </div>
+       
+       </td></tr></table>
+
+
+      </div>
+      <div id="copyright">&#169; 2008 Habitat for Humanity London Inc. Web site: <img alt="" src="images/webmaster_email.png" style="vertical-align:bottom;"/></div>
+   </body>
+</html>

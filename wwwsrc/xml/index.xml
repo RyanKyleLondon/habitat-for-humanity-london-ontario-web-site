@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<webpage title="Habitat for Humanity London">
+
+  <script language="javascript">
+    <![CDATA[
+]]>
+</script>
+
+<article>
+
+<div style="font-style:italic;margin-bottom:2px;">
+  Welcome to Habitat for Humanity in London, Ontario, Canada.
+</div>
+With Habitat, <b>100%</b> of your donation goes towards building homes.
+Please give generously to help us build a better community.
+<br />
+    <br />
+    <h2>News &amp; Events</h2>
+    <table id="news" cellpadding="0" border="0">
+      <tr>
+        <td class="date">
+          <b>Jan 21</b>
+        </td>
+        <td>
+          <a href="2009/Job Description - Secretary - Family Selection Committee.doc">Volunteer Position: Secretary, Family Selection Committee</a>
+          <span class="filetype">(DOC)</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
+          <b>Jan 20</b>
+        </td>
+        <td>
+          <a href="http://habitat-for-humanity-london.blogspot.com/">Check out our new blog!</a>
+          <span class="filetype">(DOC)</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
+          <b>Oct 24</b>
+        </td>
+        <td>
+          <a href="2008/HabitatDedicationInvitation.pdf">House dedication ceremony is on Oct 26!</a>
+          <span class="filetype">(PDF)</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
+          <b>Oct 1</b>
+        </td>
+        <td>
+          <a href="2008/Habitat-Newsletter-Sponsors.pdf">Local events by our lead sponsors</a>
+          <span class="filetype">(PDF)</span>
+        </td>
+        
+      </tr>
+    </table>
+
+    <br />
+    <h2>Build 2008</h2>
+    Our 2008 build took place at 1150 Kipps Lane in London, ON. <span class="caption">
+      [<a id="showmaplink" style="font-size:10px" href='javascript:toggleVisible("buildmap", "showmaplink", "map","http://maps.google.ca/maps?hl=en&amp;safe=off&amp;client=firefox-a&amp;q=1150+Kipps+Lane+in+London,+on&amp;ie=UTF8&amp;s=AARTsJqETRJQc2t9aGXURvB1L4yMsrjJmA&amp;ll=43.004647,-81.2463&amp;spn=0.075321,0.145912&amp;z=12&amp;output=embed")'>show map</a>]
+    </span>
+    <iframe id="buildmap" style="display:none;margin:5px;" width="440" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
+    Construction was a huge success thanks to our many volunteers and partners.
+
+    <div align="center" style="margin:9px">
+      <a href="http://www.flickr.com/photos/habitatlondon/2004832031/" title="IMG_1865 by Habitat for Humanity London Inc., on Flickr">
+        <img src="http://farm3.static.flickr.com/2131/2004832031_86d0232c32_m.jpg" width="240" height="180" alt="IMG_1865" />
+      </a>
+      <div class="caption">A few of our Build 2008 volunteers!</div>
+    </div>
+
+
+  </article>
+  <sidebar>
+
+    <div id="partners" style="z-index:0">
+      <h2>Full House Partners</h2>
+      <object id="partners_anim" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0">
+        <param name="movie" value="images/partners.swf" />
+        <param name="wmode" value="transparent" />
+        <embed src="images/partners.swf" wmode="transparent" quality="high" bgcolor="#ffffff" name="partners_anim" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+      </object>
+      <div class="caption">
+        <a href="partners.html">Click here</a> for a complete list of <br />our local corporate partners.
+      </div>
+    </div>
+
+  </sidebar>
+
+</webpage>

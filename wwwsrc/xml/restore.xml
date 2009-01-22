@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<webpage title="Habitat for Humanity London">
+  <article>
+
+    <div><img src="images/restore1.jpg" alt=""/></div>
+    <p></p>
+    The ReStore sells new and slightly used renovation materials and supplies for <b>at least 50% off retail</b>.
+    <p></p>
+    You'll find lots of materials in our showroom, including
+    <ul>
+      <li>Furniture</li>
+      <li>Appliances</li>
+      <li>Cabinetry</li>
+      <li>Bathroom &amp; Kitchen Fixtures</li>
+      <li>Doors &amp; Windows</li>
+      <li>Flooring</li>
+      <li>Heating Fixtures</li>
+      <li>Lumber &amp; Trim</li>
+      <li>Hardware</li>
+    </ul>
+    Everything sold in the ReStore has been donated by companies and individuals
+    who want to help Habitat for Humanity London.
+    Thanks to donors, volunteers and recycling, we are able to sell everything for a low price.
+    <p></p>
+
+    <h2>Hours, Directions</h2>
+    The ReStore is open for business Mon-Fri 9-5:30 and Sat 9-4 except on holidays.
+    Reach us by phone at 519-659-1949, by <a href="restore@habitat.london.on.ca">email</a>, 
+    or visit our London ReStore showroom located at:
+    <div style="position:relative;padding-top:6px;text-align:center">
+      <div style="margin:0px auto; text-align:left;width:150px">
+        Unit 6, 45 Pacific Ct,<br/>
+        London, ON, N5V 3N4.<br/>
+        <div class="caption">
+          [<a id="restoremaplink" href='javascript:toggleVisible("restoremap", "restoremaplink", "map","http://maps.google.com/maps?hl=en&amp;q=Unit+10,+45+Pacific+Court,+London,+ON&amp;ie=UTF8&amp;s=AARTsJqoIgZeiejPm0dPGYPbs0OR0OEvMQ&amp;ll=43.011049,-81.187592&amp;spn=0.031381,0.068665&amp;z=13&amp;iwloc=addr&amp;output=embed")'>show map</a>]
+        </div>
+      </div>
+    </div>
+
+    <center>
+      <iframe id="restoremap" style="display:none;margin:10px" width="380" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
+    </center>
+
+    <h2>Donate<a name="donate"></a></h2>
+
+    To donate materials, simply give us a call at 519-659-1949.
+    The ReStore needs new and used building materials that are
+    resalable, repairable and/or reusable.
+
+
+    <h2>Volunteer<a name="volunteer"></a></h2>
+
+    TODO
+
+  </article>
+
+  <sidebar>
+    <div align="center">Browse our showroom...</div>
+    <div style="margin:3px 0">
+      <img src="images/restoreitems_couches.jpg" alt=""/>
+    </div>
+    <div style="margin:3px 0">
+      <img src="images/restoreitems_cabinetdoors.jpg" alt=""/>
+    </div>
+    <div style="margin:3px 0">
+      <img src="images/restoreitems_ovens.jpg" alt=""/>
+    </div>
+    <div align="center">
+      <em>...and much more! </em>
+    </div>
+
+  </sidebar>
+
+</webpage>

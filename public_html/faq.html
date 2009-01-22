@@ -1,0 +1,369 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <title>Habitat for Humanity London</title>
+      <link type="text/css" rel="stylesheet" href="style0.css">
+      <link rel="shortcut icon" href="favicon.ico"><script language="javascript">
+          
+attachNavbarHover = function() {
+    var navLIs = document.getElementById("navbar1").getElementsByTagName("li");
+    for (var i = 0; i < navLIs.length; i++) {
+        navLIs[i].onmouseover = function() { this.className = "mhover"; }
+        navLIs[i].onmouseout  = function() { this.className = ""; }
+    }
+}
+if (window.attachEvent)
+    window.attachEvent("onload", attachNavbarHover);
+    
+function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
+    target = document.getElementById(targetName);
+    link = document.getElementById(linkName)
+    if (target.style.display == "none") {
+        if (targetSrc)
+            target.setAttribute("src", targetSrc);
+        target.style.display = "block";
+        link.innerHTML = "hide " + typeOfTarget;
+    } else {
+        target.style.display = "none";
+        link.innerHTML = "show " + typeOfTarget;
+    }
+}
+
+            </script>
+      <!--[if IE]>
+<style>
+/* hack: IE and Firefox include border in width computation differently */
+.navbar ul li ul { width:131px; }
+.navbar ul li ul li a { width:126px; }
+#navbar2.navbar { height:4px }
+</style>
+              <![endif]--></head>
+   <body scroll="yes">
+      <div id="content">
+         <div id="head">
+            <div id="headbar">
+               <div id="tinylinks" class="caption"><a href="index.html">Home</a> &#8226;
+                  <a href="contact.html">Contact</a> &#8226;
+                  <a href="http://habitat-for-humanity-london.blogspot.com/">Blog</a> &#8226;
+                  <a href="restore.html">ReStore</a> &#8226;
+                  <a href="http://www.flickr.com/photos/habitatlondon/">Photos</a></div><a href="index.html"><img id="logo" alt="" src="images/logo_main.png" width="262" height="61"></a><object id="headbar_anim" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0">
+                  <param name="movie" value="images/headbar.swf">
+                  <param name="wmode" value="transparent">
+                  <embed src="images/headbar.swf" wmode="transparent" quality="high" bgcolor="#ffffff" name="headbar_anim" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object><img id="greenline" src="images/greenline.png" alt="" width="435" height="1"></div>
+            <div id="navbar1" class="navbar">
+               <ul>
+                  <li style="left:0px"><a href="about.html">
+                        <div class="button" style="background-image:url('images/head_buttons_about.png')"></div></a><ul>
+                        <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="about.html">Our Story</a></li>
+                        <li><a href="stories.html">Family Stories</a></li>
+                        <li><a href="partners.html">Corporate Partners</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="http://habitat.ca/">Habitat Canada</a></li>
+                     </ul>
+                  </li>
+                  <li style="left:172px"><a href="donate.html">
+                        <div class="button" style="background-image:url('images/head_buttons_donate.png')"></div></a><ul>
+                        <li><a href="donate.html">Donate Now</a></li>
+                        <li><a href="donate_corporate.html">Corporate Support</a></li>
+                        <li><a href="restore_donate.html">ReStore Donations</a></li>
+                        <li><a href="donor_rights.html">Donor Bill of Rights</a></li>
+                     </ul>
+                  </li>
+                  <li style="left:344px"><a href="participate_build.html">
+                        <div class="button" style="background-image:url('images/head_buttons_participate.png')"></div></a><ul>
+                        <li><a href="participate_build.html">Build Volunteers</a></li>
+                        <li><a href="participate_committees.html">Committees</a></li>
+                        <li><a href="participate_board.html">Board of Directors</a></li>
+                     </ul>
+                  </li>
+                  <li style="left:516px"><a href="housing.html">
+                        <div class="button" style="background-image:url('images/head_buttons_housing.png')"></div></a><ul>
+                        <li><a href="housing.html">Build Volunteers</a></li>
+                        <li><a href="housing.html">Committees</a></li>
+                        <li><a href="housing.html">Board of Directors</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <table id="article" cellpadding="0" border="0">
+            <tr>
+               <style>
+    h3 {
+    margin-top:16px;
+    margin-bottom:6px;
+    }
+  </style>
+               <td valign="top" class="articlebody">
+                  
+                  <h2 style="margin-bottom:15px;">Frequently Asked Questions</h2>
+                  
+                  <b>The big idea</b>
+                  
+                  <ul>
+                     
+                     <li><a href="#whatis">What is Habitat for Humanity?</a></li>
+                     
+                     <li><a href="#how">How does it work?</a></li>
+                     
+                     <li><a href="#handup">Why is Habitat "a hand up, not a hand out"?</a></li>
+                     
+                     <li><a href="#achieved">What has Habitat for Humanity achieved?</a></li>
+                     
+                  </ul>
+                  
+                  <b>Home ownership</b>
+                  
+                  <ul>
+                     
+                     <li><a href="#qualify">Who qualifies for a home?</a></li>
+                     
+                     <li><a href="#choose">How are families chosen?</a></li>
+                     
+                     <li><a href="#familyfinance">What happens when family income changes?</a></li>
+                     
+                     <li><a href="#contrib">What do families contribute?</a></li>
+                     
+                     <li><a href="#land">How do we acquire land?</a></li>
+                     
+                     <li><a href="#sale">Can the family decide to sell their house at a profit, just months after taking possession?</a></li>
+                     
+                  </ul>
+                  
+                  <b>Participation</b>
+                  
+                  <ul>
+                     
+                     <li><a href="#volunteer">How can I volunteer my skills?</a></li>
+                     
+                     <li><a href="#whatelse">What else can I do to help?</a></li>
+                     
+                     <li><a href="#womenbuild">What is Women Build?</a></li>
+                     
+                     
+                  </ul>
+                  
+                  
+                  <div class="hr"></div>
+                  <a name="whatis"></a>
+                  
+                  <h3>What is Habitat for Humanity?</h3>
+                  <img alt="" src="images/logo_icon1.jpg" style="margin:10px;float:right;width:54px;height:46px;">
+                  Habitat for Humanity is an international, non-profit organization
+                  working for a world where everyone has a safe and decent place to live.
+                  Our mission is to mobilize volunteers and community partners in building
+                  affordable housing and promoting homeownership as a means to breaking the
+                  cycle of poverty.
+                  
+                  <p></p>
+                  
+                  <a name="how"></a>
+                  
+                  <h3>How does it work?</h3>
+                  Through volunteer labour, efficient management and tax-deductible donations of money 
+                  and materials, Habitat builds and rehabilitates simple, decent houses with the help 
+                  of the homeowner (partner) families. Habitat houses are sold to partner families 
+                  at no profit and financed with affordable, no-interest mortgages. 
+                  The homeowners' monthly mortgage payments go into a revolving fund, which is 
+                  used to build more houses.
+                  
+                  <p></p>
+                  
+                  
+                  <a name="handup"></a>
+                  
+                  <h3>Why is Habitat "a hand up, not a hand out"?</h3>
+                  Habitat houses are sold to families, not given to them free of charge.
+                  <b>Habitat for Humanity is not a give-away program</b>. In addition to mortgage payments,
+                  each homeowner invests hundreds of hours of their own labour, called "sweat equity",
+                  into the building of their house and the houses of others.
+                  
+                  
+                  <p></p>
+                  By building homes at low cost, requiring very little or no down payment,
+                  and not charging interest on the mortgage, Habitat for Humanity is able to
+                  provide an opportunity, or a "hand up", to buy a home for families that would
+                  not otherwise qualify for a conventional mortgage.
+                  
+                  <p></p>
+                  
+                  
+                  <a name="achieved"></a>
+                  
+                  <h3>What has Habitat for Humanity achieved?</h3>
+                  Habitat for Humanity has built more than 225,000 homes in over 100 countries
+                  around the world. A new home is dedicated worldwide every 21 minutes.
+                  
+                  <p></p>
+                  Habitat for Humanity Canada was founded in 1985, consists of over 35,000
+                  volunteers and 72 affiliate organizations, and has dedicated more 
+                  than 1,000 homes from coast to coast since its inception. 
+                  
+                  <p></p>
+                  
+                  
+                  
+                  <div class="hr"></div>
+                  
+                  <a name="qualify"></a>
+                  
+                  <h3>Who qualifies for a home?</h3>
+                  The three criteria to qualify for a Habitat home are 
+                  
+                  <ol>
+                     
+                     <li>need for affordable housing,</li>
+                     
+                     <li>ability to repay a Habitat mortgage, and</li>
+                     
+                     <li>willingness to partner with Habitat.</li>
+                     
+                  </ol>
+                  Need for affordable housing is defined by a family income that is below the government-set Low Income Cut-Off (poverty line)
+                  for their particular region, and existing living conditions that are inadequate in terms of structure, cost, safety or size.
+                  The ratio of shelter expense to total income is also factored.
+                  
+                  <p></p>
+                  Ability to repay a Habitat mortgage requires that the family has a stable income sufficient to cover the monthly mortgage
+                  payments and other expenses that come with home ownership.
+                  
+                  <p></p>
+                  Homeowners must demonstrate a willingness to partner with Habitat by contributing 500 hours of volunteer labor ("sweat equity")
+                  towards the building of their home.
+                  
+                  <p></p>
+                  
+                  
+                  
+                  <a name="choose"></a>
+                  
+                  <h3>How are families chosen?</h3>
+                  Families are chosen on the basis of the above criteria. 
+                  Family selection occurs at the local affiliate by way of an application process.
+                  To obtain an application, contact your local Affiliate office.
+                  
+                  <p></p>
+                  
+                  
+                  <a name="contrib"></a>
+                  
+                  <h3>What do families contribute?</h3>
+                  In addition to mortgage payments, each homeowner invests hundreds of hours of
+                  their time to assist in the building of their home. In return, Habitat homeowners
+                  are given the unique opportunity to buy a home through an interest-free mortgage.
+                  Thus, gaining substantial equity they would not have if renting.
+                  
+                  <p></p>
+                  
+                  <a name="familyfinance"></a>
+                  
+                  <h3>What happens when family income changes?</h3>
+                  The income of all Habitat homeowners is reviewed on an annual basis.
+                  If income increases, monthly mortgage payments are adjusted to remain at 30% of
+                  their monthly income. If income decreases, usually due to a temporary situation such
+                  as a job loss, similar adjustments may be made to maintain affordability during
+                  this period of decreased cash flow.
+                  
+                  <p></p>
+                  Habitat for Humanity is committed to educating and supporting partner families toward
+                  successful homeownership. This commitment has resulted in a <b>1% mortgage default
+                     rate</b> in Canada.
+                  
+                  <p></p>
+                  
+                  
+                  <a name="land"></a>
+                  
+                  <h3>How do we acquire land?</h3>
+                  Acquiring affordable land has been one of Habitat for Humanity's greatest challenges. 
+                  Habitat seeks the assistance of governments at all levels in acquiring suitable 
+                  donated or cost-reduced land. Habitat also relies on individual donors for land 
+                  donations. In many cases we must purchase land.
+                  
+                  <p></p>
+                  
+                  <a name="sale"></a>
+                  
+                  <h3>Can the family decide to sell their house at a profit, just months after taking possession?</h3>
+                  The Habitat mortgage is designed to keep monthly payments low, encourage long-term
+                  commitment and prevent short-term profit. This is done by way of a second mortgage.
+                  The first mortgage reflects the actual cost of the house, which is usually far less
+                  than it's fair market value. The second mortgage reflects the difference between
+                  the actual cost and the fair market value. Upon full payment of the first mortgage,
+                  the second mortgage is forgiven. The value of the second mortgage also decreases
+                  gradually with time, usually beginning at the 12 year mark.
+                  
+                  <p></p>
+                  If a family were to sell their house in the early years of their mortgage 
+                  (within the first 12 years) the outstanding second mortgage would then be payable.
+                  
+                  <p></p>
+                  Habitat for Humanity has the right to purchase the property if the homeowner wants
+                  to sell.
+                  
+                  <p></p>
+                  
+                  
+                  
+                  
+                  <div class="hr"></div>
+                  
+                  <a name="volunteer"></a>
+                  
+                  <h3>How can I volunteer my skills?</h3>
+                  We are always looking for volunteers to help <a href="participate_build.html">build homes</a>
+                  and to serve on our <a href="participate_committees.html">committees</a> and <a href="participate_board.html">board of directors</a>.
+                  We also have volunteer opportunities at the London <a href="restore.html">ReStore</a>.
+                  If you have questions about your specific talents, please <a href="contact.html">contact</a> our Volunteer Coordinator.
+                  
+                  <p></p>
+                  
+                  
+                  <a name="whatelse"></a>
+                  
+                  <h3>What else can I do to help?</h3>
+                  Besides volunteers, what we need most is donations to help purchase building materials.
+                  Here are some ways to help:
+                  
+                  <ul>
+                     
+                     <li>Make a tax-deductible <a href="donate.html">donation</a> to Habitat for Humanity London Inc.
+                     </li>
+                     
+                     <li>Participate in Habitat fund-raising events.</li>
+                     
+                     <li>Get your company or your faith community involved.</li>
+                     
+                  </ul>
+                  
+                  A wide variety of books, videos and literature are available to help you share
+                  Habitat's vision with others. Materials may be ordered by mail, phone or fax.
+                  The toll free number for ordering these materials from Habitat International is
+                  (800) 422-5914.
+                  
+                  <p></p>
+                  
+                  
+                  <a name="womenbuild"></a>
+                  
+                  <h3>What is Women Build?</h3>
+                  <img alt="" src="images/womebbuild_logo1.gif" style="margin:5px;float:right;width:55px;height:63px;">
+                  The Women Build Program promotes the involvement of women in the construction
+                  of Habitat houses. Women-built projects provide an opportunity for women to
+                  learn construction and to take on leadership roles in a supportive environment.
+                  Women Build works through affiliates to nurture and train women to build
+                  and invites women and men in the skilled trades to work with these women on the build.
+                  The reward for skilled and unskilled women and men is personal satisfaction and
+                  growth in providing a simple, decent, and affordable home with a family in need.
+                  
+                  <p></p>
+                  
+               </td>
+               
+            </tr>
+         </table>
+      </div>
+      <div id="copyright">© 2009 Habitat for Humanity London Inc.</div>
+   </body>
+</html>
