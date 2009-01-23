@@ -87,9 +87,6 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="stories.html">Family Stories</a>
                     </li>
                     <li>
-                      <a href="partners.html">Corporate Partners</a>
-                    </li>
-                    <li>
                       <a href="contact.html">Contact Us</a>
                     </li>
                     <li>
@@ -127,7 +124,10 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="participate_build.html">Build Volunteers</a>
                     </li>
                     <li>
-                      <a href="participate_committees.html">Committees</a>
+                      <a href="restore.html#volunteer">ReStore Volunteers</a>
+                    </li>
+                    <li>
+                      <a href="participate_committees.html">Join Committees</a>
                     </li>
                     <li>
                       <a href="participate_board.html">Board of Directors</a>
@@ -141,13 +141,13 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                   </a>
                   <ul>
                     <li>
-                      <a href="housing.html">Build Volunteers</a>
+                      <a href="stories.html">Family Stories</a>
                     </li>
                     <li>
-                      <a href="housing.html">Committees</a>
+                      <a href="housing.html">How to Apply</a>
                     </li>
                     <li>
-                      <a href="housing.html">Board of Directors</a>
+                      <a href="housing_application.pdf">Application Form</a>
                     </li>
                   </ul>
                 </li>
