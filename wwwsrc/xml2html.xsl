@@ -107,7 +107,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="donate_corporate.html">Corporate Support</a>
                     </li>
                     <li>
-                      <a href="restore_donate.html">ReStore Donations</a>
+                      <a href="restore.html#donate">ReStore Donations</a>
                     </li>
                     <li>
                       <a href="donor_rights.html">Donor Bill of Rights</a>
@@ -121,13 +121,16 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                   </a>
                   <ul>
                     <li>
+                      <a href="restore.html#volunteer">Build Stories</a>
+                    </li>
+                    <li>
                       <a href="participate_build.html">Build Volunteers</a>
                     </li>
                     <li>
                       <a href="restore.html#volunteer">ReStore Volunteers</a>
                     </li>
                     <li>
-                      <a href="participate_committees.html">Join Committees</a>
+                      <a href="participate_committees.html">Join a Committee</a>
                     </li>
                     <li>
                       <a href="participate_board.html">Board of Directors</a>
@@ -141,13 +144,10 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                   </a>
                   <ul>
                     <li>
-                      <a href="stories.html">Family Stories</a>
-                    </li>
-                    <li>
                       <a href="housing.html">How to Apply</a>
                     </li>
                     <li>
-                      <a href="housing_application.pdf">Application Form</a>
+                      <a href="stories.html">Family Stories</a>
                     </li>
                   </ul>
                 </li>
@@ -180,7 +180,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
 
   <!-- Format <article> -->
   <xsl:template match="article">
-    <td valign="top" class="articlebody">
+    <td valign="top" id="articlebody">
       <xsl:apply-templates/>
     </td>
   </xsl:template>
@@ -188,7 +188,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
 
   <!-- Format <sidebar> -->
   <xsl:template match="sidebar">
-    <td valign="top" class="sidebar">
+    <td valign="top" id="sidebar">
       <xsl:apply-templates/>
     </td>
   </xsl:template>

@@ -211,7 +211,7 @@ p {
 	width:682px;
 }
 
-.articlebody {
+#articlebody {
 	padding:0 4px;
 }
 
@@ -232,7 +232,8 @@ p {
 	font-size:12px;
 }
 
-#article .sidebar {
+#sidebar {
+	width:190px;
 	border-left:1px dotted #ddd;
 	padding-left:4px;
 }
@@ -244,14 +245,12 @@ p {
 }
 
 #partners {
-	width:190px;
 	background-color:white;
-	border-bottom:1px dotted #ddd;
-	padding-bottom:5px;
+	padding-bottom:8px;
 	text-align:center;
 }
 
-.caption, .caption a {
+.caption, .caption * {
 	font-size:10px;
 }
 
@@ -282,7 +281,8 @@ p {
 
 #news .date {
 	background:url(images/news_item_bg.gif) repeat-x;
-	padding-right:4px;
+	width:48px;
+	vertical-align:top;
 }
 
 #news b {
@@ -290,3 +290,8 @@ p {
 	padding-right:2px;
 }
 
+.note {
+	text-align:left;
+	margin-left:20px;
+	font-style:italic;
+}

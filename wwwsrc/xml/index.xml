@@ -19,6 +19,14 @@ Please give generously to help us build a better community.
     <table id="news" cellpadding="0" border="0">
       <tr>
         <td class="date">
+          <b>Jan 22</b>
+        </td>
+        <td>
+          Come to our <i>concert</i>, 8pm on Jan 26 at The Spoke, Western campus!
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
           <b>Jan 21</b>
         </td>
         <td>
@@ -86,6 +94,18 @@ Please give generously to help us build a better community.
         <a href="partners.html">Click here</a> for a complete list of <br />our local corporate partners.
       </div>
     </div>
+    <div class="hr"></div>
+    <div style="margin:8px 0px">
+      <div align="center">
+        <a href="restore.html">
+          <img src="images/restore1.jpg" alt="" width="130" height="36"/>
+        </a>
+        <div class="caption" style="margin-top:5px">
+          Get your renovation supplies <br/><b>50% off retail</b> at the <a href="restore.html">ReStore</a>.
+        </div>
+      </div>
+    </div>
+    <div class="hr"></div>
 
   </sidebar>
 
