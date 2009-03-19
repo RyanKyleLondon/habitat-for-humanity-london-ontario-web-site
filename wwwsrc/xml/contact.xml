@@ -3,109 +3,94 @@
   <article>
     <style>
       .people td {
-        border-bottom:1px dotted #dbdbdb;
-        font-size:11px;
+          padding:3px;
+          border-bottom:1px dotted #dbdbdb;
       }
     </style>
 
-    <h2>Head Office</h2>
-
-    <div style="position:relative;padding-top:6px;">
-      (519) 455-6623<br/>
-      (519) 455-8479 (fax)<br/>
-      <div style="height:5px"></div>
-      Unit 10, 45 Pacific Ct,<br/>
-      London, ON, N5V 3N4.<br/>
-      <span class="caption" style="text-weight:normal;margin-left:30px">
-        [<a id="officemaplink" href='javascript:toggleVisible("officemap", "officemaplink", "map","http://maps.google.com/maps?hl=en&amp;q=Unit+10,+45+Pacific+Court,+London,+ON&amp;ie=UTF8&amp;s=AARTsJqoIgZeiejPm0dPGYPbs0OR0OEvMQ&amp;ll=43.011049,-81.187592&amp;spn=0.031381,0.068665&amp;z=13&amp;iwloc=addr&amp;output=embed")'>show map</a>]
-      </span><br/>
-      <iframe id="officemap" style="display:none;margin:10px auto" width="420" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
-
-
-      <table class="people" cellpadding="0" cellspacing="0" border="0" style="position:absolute;top:0;left:160px;width:460px">
-      <tr>
-        <td style="width:120px;font-weight:bold"><span class="caption">Contact</span></td>
-        <td style="width:120px"><font color="white">role</font></td>
-        <td align="center"><span class="caption">e-mail</span></td>
-        <td><span class="caption">phone ext.</span></td>
-      </tr>
-      <tr>
-        <td style="padding-right:8px;">Julie Colie</td>
-        <td>Executive Director</td>
-        <td align="right">
-          <a href="mailto:jcoley@habitat.london.on.ca"><span class="caption">jcoley@habitat.london.on.ca</span></a>
-        </td>
-        <td align="center">222</td>
-      </tr>
-      <tr>
-        <td style="padding-right:8px;">Kathnleen Mendelin</td>
-        <td >Volunteer Coordinator</td>
-        <td align="right">
-          <a href="mailto:kmendelin@habitat.london.on.ca"><span class="caption">kmendelin@habitat.london.on.ca</span></a>
-        </td>
-        <td align="center">221</td>
-      </tr>
-      <tr>
-        <td style="padding-right:8px;">Coleen Crncich</td>
-        <td>Resource Development</td>
-        <td align="right">
-          <a href="mailto:coleen@habitat.london.on.ca"><span class="caption">coleen@habitat.london.on.ca</span></a>
-        </td>
-        <td align="center">228</td>
-      </tr>
-    </table>
-
-    </div>
-    <br/>
-    <br/>
-    <h2>ReStore</h2>
-      <div style="position:relative;padding-top:6px;">
-        519-659-1949<br/>
-        519-455-8479 (fax)<br/>
-        <div style="height:5px"></div>
-        Unit 6, 45 Pacific Ct,<br/>
-        London, ON, N5V 3N4.<br/>
-        <span class="caption" style="margin-left:30px">
-          [<a id="restoremaplink" href='javascript:toggleVisible("restoremap", "restoremaplink", "map","http://maps.google.com/maps?hl=en&amp;q=Unit+10,+45+Pacific+Court,+London,+ON&amp;ie=UTF8&amp;s=AARTsJqoIgZeiejPm0dPGYPbs0OR0OEvMQ&amp;ll=43.011049,-81.187592&amp;spn=0.031381,0.068665&amp;z=13&amp;iwloc=addr&amp;output=embed")'>show map</a>]
-        </span><br/>
-
-      <iframe id="restoremap" style="display:none;margin:10px auto" width="420" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
-
-      <br/>
-      The ReStore is open for business Mon-Fri 9am-5:30pm and Sat 9am-4pm except on holidays.
-
-      <table class="people" cellpadding="0" cellspacing="0" border="0" style="position:absolute;top:0;left:160px;width:460px">
+    <center>
+      <table class="people" cellpadding="0" cellspacing="0" border="0" style="margin:10px auto; width:83%">
         <tr>
-          <td style="width:120px;font-weight:bold">
+          <td style="width:150px;font-weight:bold;padding-bottom:1px;">
             <span class="caption">Contact</span>
           </td>
-          <td style="width:120px"><font color="white">role</font></td>
-          <td align="center">
-            <span class="caption">e-mail</span>
-          </td>
-          <td>
-            <span class="caption"><font color="white">phone ext.</font></span>
+          <td style="width:300px;color:white;padding-bottom:1px;">role</td>
+          <td align="center" style="font-weight:bold;padding-bottom:1px;">
+            <span class="caption">phone ext.</span>
           </td>
         </tr>
         <tr>
-          <td style="padding-right:8px;">Gerry Pieroni</td>
-          <td>ReStore Manager</td>
-          <td align="right">
-            <a href="mailto:restore@habitat.london.on.ca">
-              <span class="caption">restore@habitat.london.on.ca</span>
-            </a>
+          <td style="padding-right:8px;">
+            <a href="mailto:jcoley@habitat.london.on.ca">Julie Colie</a>
           </td>
-          <td align="center"></td>
+          <td>Executive Director</td>
+          <td align="center">222</td>
+        </tr>
+        <tr>
+          <td style="padding-right:8px;">
+            <a href="mailto:kmendelin@habitat.london.on.ca">Kathnleen Mendelin</a>
+          </td>
+          <td>Volunteer Coordinator</td>
+          <td align="center">221</td>
+        </tr>
+        <tr>
+          <td style="padding-right:8px;">
+            <a href="mailto:coleen@habitat.london.on.ca">Coleen Crncich</a>
+          </td>
+          <td>Resource Development / Housing / Special Events</td>
+          <td align="center">228</td>
+        </tr>
+        <tr>
+          <td style="padding-right:8px;">
+            <a href="mailto:restore@habitat.london.on.ca">Gerry Pieroni</a>
+          </td>
+          <td>ReStore Manager</td>
+          <td align="center" style="color:white">.</td>
+        </tr>
+        <tr>
+          <td style="padding-right:8px;">
+            <a href="http://www.csd.uwo.ca/~adelong3/">Andrew Delong</a>
+          </td>
+          <td>Website</td>
+          <td align="center" style="color:white">.</td>
         </tr>
       </table>
+    </center>
+    
+    <div style="position:relative;height:140px;margin-top:20px;">
+      <div style="position:absolute;width:200px;left:65px;">
+        <h2>Head Office</h2>
+        <div style="padding-top:6px;">
+          (519) 455-6623<br/>
+          (519) 455-8479 (fax)<br/>
+          <div style="height:5px"></div>
+          Unit 10, 45 Pacific Ct,<br/>
+          London, ON, N5V 3N4.<br/>
+        </div>
+      </div>
 
+      <div style="position:absolute;width:280px;left:390px;">
+        <h2>ReStore Showroom</h2>
+        <div style="position:relative;padding-top:6px;">
+          519-659-1949<br/>
+          519-455-8479 (fax)<br/>
+          <div style="height:5px"></div>
+          Unit 6, 45 Pacific Ct,<br/>
+          London, ON, N5V 3N4.<br/>
+          <div style="font-size:5px;height:5px;"> </div>
+          <span class="caption">Open Mon-Fri 9-5:30, Sat 9-4 except holidays.</span>
+        </div>
+      </div>
     </div>
 
-    <br/>
-    <br/>
-    <h2>Web Site</h2>
-      Please send comments about the website to 
-        <img alt="" src="images/webmaster_email.png" style="vertical-align:bottom;"/>
+    <iframe id="officemap" style="display:block;margin:10px 63px;" width="560" height="340" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
 
+
+    <script>
+      window.onload = function() {
+        document.getElementById("officemap").setAttribute("src", "http://maps.google.com/maps?hl=en&amp;q=Unit+10,+45+Pacific+Court,+London,+ON&amp;ie=UTF8&amp;s=AARTsJqoIgZeiejPm0dPGYPbs0OR0OEvMQ&amp;ll=43.011049,-81.187592&amp;spn=0.031381,0.068665&amp;z=13&amp;iwloc=addr&amp;output=embed");
+      }
+    </script>
   </article>
+  
 </webpage>

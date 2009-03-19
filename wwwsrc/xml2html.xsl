@@ -104,13 +104,10 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="donate.html">Donate Now</a>
                     </li>
                     <li>
-                      <a href="donate_corporate.html">Corporate Support</a>
+                      <a href="partners.html">Corporate Support</a>
                     </li>
                     <li>
                       <a href="restore.html#donate">ReStore Donations</a>
-                    </li>
-                    <li>
-                      <a href="donor_rights.html">Donor Bill of Rights</a>
                     </li>
                   </ul>
                 </li>
@@ -121,7 +118,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                   </a>
                   <ul>
                     <li>
-                      <a href="restore.html#volunteer">Build Stories</a>
+                      <a href="stories.html">Build Stories</a>
                     </li>
                     <li>
                       <a href="participate_build.html">Build Volunteers</a>
@@ -130,10 +127,10 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="restore.html#volunteer">ReStore Volunteers</a>
                     </li>
                     <li>
-                      <a href="participate_committees.html">Join a Committee</a>
+                      <a href="committees.html">Join a Committee</a>
                     </li>
                     <li>
-                      <a href="participate_board.html">Board of Directors</a>
+                      <a href="boardofdirectors.html">Board of Directors</a>
                     </li>
                   </ul>
                 </li>

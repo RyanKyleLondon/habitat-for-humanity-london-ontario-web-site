@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<webpage title="Habitat for Humanity London">
+  <style>
+    h3 {
+    margin-top:16px;
+    margin-bottom:6px;
+    }
+  </style>
+  <article>
+
+    <h2 style="margin-bottom:15px;">Help Us Build!</h2>
+
+    We invite everyone over 16 years of age to come help us build homes in London.
+    This is a great chance to learn useful skills,
+    and to meet other people who also care about our community.
+    To get an idea of what it's like to work with us, take a look 
+    at our <a href="volunteer_brochure.pdf">volunteering brochure</a> <span class="filetype">(PDF)</span>
+    and browse our <a href="http://www.flickr.com/photos/habitatlondon/">photo gallery</a>.
+    <p></p>
+
+    <div align="center">
+      <img alt="" src="images/build_header1.jpg" width="390" height="148"/>
+    </div>
+
+    <a name="constructionexp"></a>
+    <h3>Construction experience</h3>
+    While experience is valuable, it's not required. We can teach you the basics.
+    <p></p>
+
+    <h3>How to Apply</h3>
+    Just print a copy of our <a href="volunteer_application.pdf">volunteer application</a>
+    <span class="filetype">(PDF)</span>, fill in your personal information, and mail
+    it to our head office.
+    <div style="margin:10px;padding-left:30px;">
+      Habitat for Humanity London Inc.<br />
+      Unit 10, 45 Pacific Ct,<br/>
+      London, ON, N5V 3N4.<br/>
+    </div>
+    If you have questions, contact our <a href="contact.html">Volunteer Coordinator</a>.
+    We look forward to meeting you!
+
+    <h3>Other ways to help</h3>
+    Besides volunteers, what we need most is donations to help purchase building materials.
+    Here are some ways to help:
+    <ul>
+      <li>
+        Make a tax-deductible <a href="donate.html">donation</a> to Habitat for Humanity London Inc.
+      </li>
+      <li>Participate in Habitat fund-raising events.</li>
+      <li>Get your company or your faith community involved.</li>
+    </ul>
+
+
+  </article>
+</webpage>

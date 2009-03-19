@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <webpage title="Habitat for Humanity London">
   <article>
+    The 2008 build at Kipps Lane was made possible by the support
+    of our generous sponsors below. If you or your organization would like 
+    to partner with Habitat for Humanity London, please contact 
+    our <a href="contact.html">executive director</a>.
+
+    <div class="hr"></div>
+      
     <h2>Full House Partners - $75,000 donations</h2>
 
-    TODO
+    
+    <div align="center" style="padding-top:10px">
+      <a href="http://www.homedepot.ca">
+        <img src="2008/sponsors-homedepot.jpg" width="180" height="180" border="0"/>
+      </a>
+    </div>
+    <div align="center" style="padding-top:30px">
+      <a href="http://www.fm96.com">
+        <img src="2008/sponsors-fm96.jpg" width="380" height="125" border="0"/>
+      </a>
+    </div>
+    <div align="center" style="padding-top:50px">
+      <a href="http://www.johnlabattcentre.com/">
+        <img src="2008/sponsors-globalspectrum.jpg" width="380" height="160" border="0"/>
+      </a>
+    </div>
+    <div align="center" style="padding-top:40px">
+      <a href="http://www.mckenzielake.com/">
+        <img src="2008/sponsors-mckenzielake.jpg" width="380" height="109" border="0"/>
+      </a>
+    </div>
+    <p></p>
+    <p></p>
 
-    <h2>Etc etc</h2>
+    <div class="hr"></div>
 
-    TODO
+    <h2>Partial Sponsors</h2>
+    
+    <div align="center" style="padding-top:20px">
+      <a href="https://www.dufferinconcrete.ca/">
+        <img src="2008/sponsors-dufferinconcrete.jpg" width="200" height="250" border="0" style="margin-right:20px"/>
+      </a>
+      <a href="http://www.td.com/">
+        <img src="2008/sponsors-tdbank.jpg" align="top" style="padding-top:60px" width="258" height="109" border="0"/>
+      </a>
+    </div>
+    <div align="center" style="padding-top:40px">
+      <a href="http://www.natradeschools.com/">
+        <img src="2008/sponsors-nats.jpg" width="310" height="89" border="0"/>
+      </a>
+    </div>
+    <div align="center" style="padding-top:40px">
+      <a href="http://www.rogers.ca/">
+        <img src="2008/sponsors-rogers.jpg" width="320" height="76" border="0"/>
+      </a>
+    </div>
 
   </article>
 </webpage>

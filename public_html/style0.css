@@ -24,7 +24,7 @@ h2 {
 	color:#225599;
 	margin:3px 0;
 	margin-top:10px;
-	font-size:17px;
+	font-size:18px;
 }
 
 h3 {
@@ -233,7 +233,7 @@ p {
 }
 
 #sidebar {
-	width:190px;
+/*	width:190px;*/
 	border-left:1px dotted #ddd;
 	padding-left:4px;
 }
@@ -294,4 +294,10 @@ p {
 	text-align:left;
 	margin-left:20px;
 	font-style:italic;
+}
+
+.notice {
+	border:1px solid #f3e8c5;
+	background:#fffdf8;
+	padding:1px 4px;
 }

@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <webpage title="Habitat for Humanity London">
   <article>
-    With Habitat, <b>100%</b> of donations go to building homes.
-    Please give generously.
+    Habitat for Humanity London puts <b>100%</b> of your donation towards building homes in the London area.
+    Funding for building supplies and land is our greatest need.
+    There are a number of ways to donate, so choose one that's most convenient for you.
+    <a href="contact.html">Contact us</a> if you have any questions, and please give generously.
 
-    <h2>Donate Online</h2>
-    Make your donation online right now. It's fast, easy and secure.
-    <div style="padding:5px;text-align:center">
+    <div style="margin:20px;text-align:center;float:right;clear:both;">
       <a href="http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=46736">
         <img src="images/canadahelps1.jpg"/>
-      </a>
+        </a>
     </div>
+    <h2>Donate Online</h2>
+    You can make a donation online right now. It's fast, easy and secure.
     <a href="http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=46736">Click here</a>
-    to make a one time donation or monthly donations.
+    to make a one time donation or to set up monthly donations.
     Securities can also be donated, such as stocks or mutual funds.
 
-    <h2>Donate By Telephone</h2>
 
-    TODO
+    <h2>Donate By Telephone</h2>
+    If you would like to organize your donation over the phone, or if you have questions,
+    please contact our Resource Development Manager at 519-455-6623 extension 228.<br/>
+
 
     <h2>Donate By Mail</h2>
 
-    TODO
+    You can also write a tax-deductable cheque payable to <em>Habitat for Humanity London Inc.</em>
+    and mail it to our head offices at the following address.
+    <div style="margin:10px;padding-left:30px;">
+      Habitat for Humanity London Inc.<br />
+      Unit 10, 45 Pacific Ct,<br/>
+      London, ON, N5V 3N4.<br/>
+    </div>
+
 
     <h2>Donor Bill of Rights</h2>
 
-As a donor, you deserve to be informed about how your contribution is put to use. 
-See the <a href="donor_billofrights.pdf">Donor Bill of Rights</a> adopted by the National Board of Habitat for Humanity Canada. Please <a href="contact.html">contact us</a> if you have questions.
-
+    As a donor, you deserve to be informed about how your contribution is put to use.
+    See the <a href="donor_billofrights.pdf">Donor Bill of Rights</a> adopted by the National Board of Habitat for Humanity Canada.
 
   </article>
 </webpage>
