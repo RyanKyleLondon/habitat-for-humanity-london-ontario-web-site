@@ -22,6 +22,15 @@ Please give generously to help us build a better community.
     <table id="news" cellpadding="0" border="0">
       <tr>
         <td class="date">
+          <b>Mar 20</b>
+        </td>
+        <td>
+          Our <a href="newsletter/newsletter-2009-03-March.pdf">March 2009 newsletter</a> is out.
+          <span class="filetype">(PDF)</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
           <b>Mar 8</b>
         </td>
         <td>
@@ -57,7 +66,7 @@ Please give generously to help us build a better community.
           <b>Jan 20</b>
         </td>
         <td>
-          <a href="http://habitat-for-humanity-london.blogspot.com/">Check out our new blog!</a>
+          Visit our new <a href="http://habitat-for-humanity-london.blogspot.com/">Habitat London blog</a>!
         </td>
       </tr>
       <tr>
@@ -117,12 +126,23 @@ Please give generously to help us build a better community.
         <a href="restore.html">
           <img src="images/restore1.jpg" alt="" width="130" height="36"/>
         </a>
-        <div class="caption" style="margin-top:5px">
+        <div class="caption" style="margin-top:5px;">
           Get your renovation supplies <br/><b>50% off retail</b> at the <a href="restore.html">ReStore</a>.
         </div>
       </div>
     </div>
     <div class="hr"></div>
+
+    <div align="center" style="margin-top:18px;">
+      <a href="newsletter/newsletter-2009-03-March.pdf">
+        <img alt="" border="0" src="images/newsletterpreview.jpg" width="130" height="185"/>
+      </a>
+      <div class="caption" style="margin-top:1px;text-align:center;">
+        <a href="newsletter/newsletter-2009-03-March.pdf">Read our latest newsletter</a><br/>
+        (March 2009)
+      </div>
+
+    </div>
 
   </sidebar>
 
