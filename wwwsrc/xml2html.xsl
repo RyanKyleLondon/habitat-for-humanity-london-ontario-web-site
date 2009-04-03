@@ -45,7 +45,9 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
 /* hack: IE and Firefox include border in width computation differently */
 .navbar ul li ul { width:131px; }
 .navbar ul li ul li a { width:126px; }
-#navbar2.navbar { height:4px }
+#navbar2.navbar { height:4px; }
+#headbar object { left:265px; }
+#headbar #greenline { left:260px; }
 &lt;/style&gt;
               &lt;![endif]</xsl:comment>
           </head>
@@ -84,9 +86,6 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="about.html">Our Story</a>
                     </li>
                     <li>
-                      <a href="stories.html">Family Stories</a>
-                    </li>
-                    <li>
                       <a href="contact.html">Contact Us</a>
                     </li>
                     <li>
@@ -118,7 +117,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                   </a>
                   <ul>
                     <li>
-                      <a href="stories.html">Build Stories</a>
+                      <a href="stories.html">Volunteer Stories</a>
                     </li>
                     <li>
                       <a href="participate_build.html">Build Volunteers</a>
@@ -141,10 +140,10 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                   </a>
                   <ul>
                     <li>
-                      <a href="housing.html">How to Apply</a>
+                      <a href="stories.html">Family Stories</a>
                     </li>
                     <li>
-                      <a href="stories.html">Family Stories</a>
+                      <a href="housing.html">How to Apply</a>
                     </li>
                   </ul>
                 </li>

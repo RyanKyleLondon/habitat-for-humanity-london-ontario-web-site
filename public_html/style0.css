@@ -83,21 +83,23 @@ p {
 
 #headbar #tinylinks {
 	position:absolute;
-	left:72px;
-	top:2px;
-	padding:1px;
+	left:19px;
+	top:80px;
 	z-index:2;
+}
+
+#headbar #tinylinks a {
+	padding:2px 3px;
 }
 
 #headbar #logo {
 	position:absolute;
 	left:0px;
-	top:20px;
+	top:9px;
 }
 
 #headbar object, #headbar embed {
 	position:absolute;
-	left:2px;
 	width:430px;
 	height:90px;
 }
@@ -105,11 +107,11 @@ p {
 #headbar #greenline {
 	position:absolute;
 	top:90px;
-	left:260px;
+	left:262px;
 }
 
 #headbar object {
-	left:265px;
+	left:267px;
 }
 
 #navbar1 {
