@@ -59,11 +59,11 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                 <a href="index.html">Home</a> &#8226;
                 <a href="contact.html">Contact</a> &#8226;
                 <a href="http://habitat-for-humanity-london.blogspot.com/">Blog</a> &#8226;
-                <a href="restore.html">ReStore</a> &#8226;
+                <a href="http://www.londonrestore.com/">ReStore</a> &#8226;
                 <a href="http://www.flickr.com/photos/habitatlondon/">Photos</a>
               </div>
               <a href="index.html">
-                <img id="logo" alt="" src="images/logo_main.png" width="262" height="61"/>
+                <img id="logo" alt="" src="images/logo_main.png" width="229" height="73"/>
               </a>
               <object id="headbar_anim" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0">
                 <param name="movie" value="images/headbar.swf" />
@@ -106,7 +106,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="partners.html">Corporate Support</a>
                     </li>
                     <li>
-                      <a href="restore.html#donate">ReStore Donations</a>
+                      <a href="http://www.londonrestore.com/Making_a_Donation.asp">ReStore Donations</a>
                     </li>
                   </ul>
                 </li>
@@ -123,7 +123,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="participate_build.html">Build Volunteers</a>
                     </li>
                     <li>
-                      <a href="restore.html#volunteer">ReStore Volunteers</a>
+                      <a href="http://www.londonrestore.com/aboutus.asp">ReStore Volunteers</a>
                     </li>
                     <li>
                       <a href="committees.html">Join a Committee</a>
