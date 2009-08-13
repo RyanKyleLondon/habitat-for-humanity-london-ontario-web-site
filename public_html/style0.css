@@ -83,13 +83,13 @@ p {
 
 #headbar #tinylinks {
 	position:absolute;
-	left:10px;
+	left:0px;
 	top:86px;
 	z-index:2;
 }
 
 #headbar #tinylinks a {
-	padding:2px 3px;
+	padding:2px 2px;
 }
 
 #headbar #logo {
@@ -286,6 +286,22 @@ p {
 	width:48px;
 	vertical-align:top;
 }
+
+#mediatable {
+	background:#f7f7ff;
+	width:600px;
+	border:1px solid #eeeeff;
+	margin:5px;
+}
+
+#mediatable img {
+	margin:3px 10px;
+	border:none;
+}
+
+#mediatable .date {
+	width:100px;
+ }
 
 #news b {
 	background:white;

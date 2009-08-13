@@ -60,7 +60,8 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                 <a href="contact.html">Contact</a> &#8226;
                 <a href="http://habitat-for-humanity-london.blogspot.com/">Blog</a> &#8226;
                 <a href="http://www.londonrestore.com/">ReStore</a> &#8226;
-                <a href="http://www.flickr.com/photos/habitatlondon/">Photos</a>
+                <a href="http://www.flickr.com/photos/habitatlondon/">Photo</a>  &#8226;
+                <a href="media.html">Media</a>
               </div>
               <a href="index.html">
                 <img id="logo" alt="" src="images/logo_main.png" width="229" height="73"/>
@@ -89,6 +90,9 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="contact.html">Contact Us</a>
                     </li>
                     <li>
+                      <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">Habitat on Facebook</a>
+                    </li>
+                    <li>
                       <a href="http://habitat.ca/">Habitat Canada</a>
                     </li>
                   </ul>
@@ -106,7 +110,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="partners.html">Corporate Support</a>
                     </li>
                     <li>
-                      <a href="http://www.londonrestore.com/Making_a_Donation.asp">ReStore Donations</a>
+                      <a href="http://www.londonrestore.com/London_West/Making_a_Donation.asp">ReStore Donations</a>
                     </li>
                   </ul>
                 </li>
@@ -123,7 +127,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="participate_build.html">Build Volunteers</a>
                     </li>
                     <li>
-                      <a href="http://www.londonrestore.com/aboutus.asp">ReStore Volunteers</a>
+                      <a href="http://www.londonrestore.com/London_West/aboutus.asp">ReStore Volunteers</a>
                     </li>
                     <li>
                       <a href="committees.html">Join a Committee</a>
