@@ -16,15 +16,14 @@ Please give generously to help us build a better community.
 <br />
     <br />
 
-  <h2>Build 2009 is coming soon!</h2>
-  Volunteers should download the <a href="participate_build.html">volunteer application</a>, complete it <em>in full</em>,
+  <h2>Build 2009 is almost ready!</h2>
+  The build will be at <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=178+Springbank+Drive,+London,+ON&amp;sll=37.0625,-95.677068&amp;sspn=40.732051,26.894531&amp;ie=UTF8&amp;ll=42.982423,-81.267757&amp;spn=0.036607,0.080767&amp;z=14&amp;iwloc=A">178 Springbank Dr</a> and kicks off <em>September 12</em>.
+  If you have already sent a volunteer application, you should receive a
+  registration package in the mail very soon.
+  New volunteers should download the <a href="participate_build.html">volunteer application</a>, complete it <em>in full</em>,
   and fax or mail it to us.
-  Once we have more information on this year's build (times, locations),
-  we will post it on the website.  At the same time we will start
-  to mail out registration packages to anyone that has already
-  submitted an application.
-<p></p>
-  Points to remember:
+  <p></p>
+  Points to remember for new applicants:
   <ul>
     <li>Applicants are accepted on a first-come first-serve basis.</li>
     <li>You must be 18 years of age to volunteer.</li>
@@ -98,10 +97,17 @@ Please give generously to help us build a better community.
           Volunteer profile: <a href="http://habitat-for-humanity-london.blogspot.com/2009/03/volunteer-profile.html">Teresa and Jeff Young</a>
         </td>
       </tr>
+      <tr>
+        <td align="right">
+          <img src="images/icon_calendar.png" width="18" height="17"  alt="" style="position:relative;top:3px;"/>
+        </td>
+        <td>
+          <a id="showcalendarlink" style="" href='javascript:toggleVisible("calendar", "showcalendarlink", "calendar","https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=360&amp;wkst=1&amp;src=kmendelin%40gmail.com&amp;ctz=America%2FNew_York")'>show calendar</a>
+        </td>
+      </tr>
     </table>
   <center>
-    [<a id="showcalendarlink" style="font-size:10px" href='javascript:toggleVisible("calendar", "showcalendarlink", "calendar","https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=360&amp;wkst=1&amp;src=kmendelin%40gmail.com&amp;ctz=America%2FNew_York")'>show calendar</a>]
-    <iframe id="calendar" src="" style="display:none;border-width:0px" width="460" height="360" frameborder="0" scrolling="no"></iframe>
+    <iframe id="calendar" src="" style="display:none;border-width:0px;margin-top:5px;" width="480" height="360" frameborder="0" scrolling="no"></iframe>
   </center>
   
     <br />
