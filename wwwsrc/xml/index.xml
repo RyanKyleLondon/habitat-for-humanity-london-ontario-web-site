@@ -34,10 +34,19 @@ Please give generously to help us build a better community.
 -->
 
   <h2>News &amp; Events <span style="font-weight:normal;margin-left:10px">
-      (see our <a href="http://habitat-for-humanity-london.blogspot.com/">blog</a> and <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">Facebook</a> page)
-    </span>
+    ... more news on our <a href="http://habitat-for-humanity-london.blogspot.com/">blog</a>
+    and <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">facebook page</a>
+  </span>
   </h2>
     <table id="news" cellpadding="0" border="0">
+      <tr>
+        <td class="date">
+          <b>Oct 6</b>
+        </td>
+        <td>
+          We have several openings on our <a href="committees.html">Family Selection Committee</a>.
+        </td>
+      </tr>
       <tr>
         <td class="date">
           <b>Oct 5</b>
@@ -103,14 +112,6 @@ Please give generously to help us build a better community.
   </center>
   
     <br />
-    <h2>Golf Classic 2009 Fundraiser</h2>
-    Habitat for Humanity London's 2009 Golf Classic takes place on September 14. 
-    Early-bird registration ends August 1. <a href="2009/GolfBrochure.pdf">View the brochure</a> <span class="filetype">(PDF)</span> for more details.
-    <div align="center" style="margin:9px">
-      <a href="2009/GolfBrochure.pdf"><img alt="" src="2009/GolfBrochureThumb.jpg" style="width:388;height:141;border:none"/></a>
-    </div>
-
-    <br />
     <h2>Build 2008</h2>
     Our 2008 build took place at 1150 Kipps Lane in London, ON. <span class="caption">
       [<a id="showmaplink" style="font-size:10px" href='javascript:toggleVisible("buildmap", "showmaplink", "map","http://maps.google.ca/maps?hl=en&amp;safe=off&amp;client=firefox-a&amp;q=1150+Kipps+Lane+in+London,+on&amp;ie=UTF8&amp;s=AARTsJqETRJQc2t9aGXURvB1L4yMsrjJmA&amp;ll=43.004647,-81.2463&amp;spn=0.075321,0.145912&amp;z=12&amp;output=embed")'>show map</a>]
@@ -159,7 +160,19 @@ Please give generously to help us build a better community.
     </div>
     <div class="hr"></div>
 
-    <div align="center" style="margin-top:18px;">
+    <div align="center" style="margin-top:18px">
+      Follow Habitat London on <a href="http://habitat-for-humanity-london.blogspot.com/">Blogger</a>
+      and <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">Facebook</a>!
+      <div style="margin-top:10px">
+        <a href="http://habitat-for-humanity-london.blogspot.com/">
+          <img width="86" height="26" src="images/logo_blogger.png" border="0"/>
+        </a>
+        <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">
+          <img width="85" height="26" src="images/logo_facebook.png" border="0"/>
+        </a>
+      </div>
+    </div>
+    <!-- div align="center" style="margin-top:18px;">
       <a href="newsletter/newsletter-2009-03-March.pdf">
         <img alt="" border="0" src="images/newsletterpreview.jpg" width="130" height="185"/>
       </a>
@@ -168,7 +181,7 @@ Please give generously to help us build a better community.
         (March 2009)
       </div>
 
-    </div>
+    </div-->
 
   </sidebar>
 

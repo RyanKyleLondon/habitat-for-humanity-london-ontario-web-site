@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color:#fafaf5;
+	background-color:#0A4876;
 	text-align:center;
 }
 
@@ -58,7 +58,7 @@ p {
 	position:relative;
 	width:707px;
 	text-align:left;
-	border:1px solid #97e08f;
+	border:2px solid #87d57f;
 	background:white;
 	padding-top:165px;
 	padding-bottom:10px;
@@ -267,10 +267,11 @@ p {
 
 #copyright {
 	position:relative;
-	width:630px;
+	width:660px;
 	margin:0 auto;
 	text-align:right;
 	font-size:10px;
+	color:white;
 }
 
 #news {
