@@ -11,8 +11,6 @@
 <div style="font-style:italic;margin-bottom:2px;margin-top:4px;">
   Welcome to Habitat for Humanity in London, Ontario, Canada.
 </div>
-With Habitat, <b>100%</b> of your donation goes towards building homes.
-Please give generously to help us build a better community.
 <br />
 
   <!--
@@ -31,13 +29,6 @@ Please give generously to help us build a better community.
   </ul>
 <br />
 -->
-  <a href="2009/dedication.pdf" style="float:right;margin:16px 24px;">
-    <img src="2009/dedicationthumb.jpg" border="0" width="84" height="36"/>
-  </a>
-  <h2>Dedication Day!</h2>
-  Join us for Dedication Day 2009 at <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=178+Springbank+Drive,+London,+ON&amp;sll=37.0625,-95.677068&amp;sspn=40.732051,26.894531&amp;ie=UTF8&amp;ll=42.982423,-81.267757&amp;spn=0.036607,0.080767&amp;z=14&amp;iwloc=A">178 Springbank Dr</a> on <em>November 12</em>.
-  <a href="2009/dedication.pdf">Click here</a> for more details. <span class="filetype">(PDF)</span>
-  <br />
 
   <h2>News &amp; Events <span style="font-weight:normal;margin-left:10px">
     ... more news on our <a href="http://habitat-for-humanity-london.blogspot.com/">blog</a>
@@ -45,6 +36,30 @@ Please give generously to help us build a better community.
   </span>
   </h2>
     <table id="news" cellpadding="0" border="0">
+      <tr>
+        <td class="date">
+          <b>Nov 28</b>
+        </td>
+        <td>
+          Read about our efforts to <a href="http://ontariogreen.greenpress.com/recycling/reduce%E2%80%A6reuse%E2%80%A6recycle%E2%80%A6rebuild/">recycle and stay environmentally friendly</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
+          <b>Nov 28</b>
+        </td>
+        <td>
+          The City of London has <a href="2009/cityrecognition.jpg">recognized us</a> for helping the community. 
+        </td>
+      </tr>
+      <tr>
+        <td class="date">
+          <b>Nov 25</b>
+        </td>
+        <td>
+          The ReStore is accepting only donations that meet <a href="2009/restoredonatecriteria.pdf">these criteria</a>. <span class="filetype">(PDF)</span>
+        </td>
+      </tr>
       <tr>
         <td class="date">
           <b>Oct 6</b>
@@ -71,14 +86,6 @@ Please give generously to help us build a better community.
       </tr>
       <tr>
         <td class="date">
-          <b>Sep 30</b>
-        </td>
-        <td>
-          Build volunteer applications are now closed for 2009.
-        </td>
-      </tr>
-      <tr>
-        <td class="date">
           <b>Sep 22</b>
         </td>
         <td>
@@ -87,53 +94,31 @@ Please give generously to help us build a better community.
         </td>
       </tr>
       <tr>
-        <td class="date">
-          <b>Sep 20</b>
-        </td>
-        <td>
-          Congratulations to the winner of our Hole-in-One Golf Tournament contest at the Highland Country Club.
-          <span style="margin-left:4px;">Thank</span> you <a href="http://www.honda.ca/HondaCA2006/dealers/DealerDetails?L=E&amp;DealerID=66&amp;title=London%20Honda">London Honda</a> and <a href="http://www.td.com/">TD Financial Group</a> for sponsoring this contest!
-        </td>
-      </tr>
-      <tr>
-        <td class="date">
-          <b>Aug 16</b>
-        </td>
-        <td>
-          Our <a href="2009/BrunchPromo.pdf">2009 Habitat Brunch</a> is Oct 25th -- reserve now!
-          <span class="filetype">(PDF)</span>
-        </td>
-      </tr>
-      <tr>
         <td align="right">
           <img src="images/icon_calendar.png" width="18" height="17"  alt="" style="position:relative;top:3px;"/>
         </td>
         <td>
-          <a id="showcalendarlink" style="" href='javascript:toggleVisible("calendar", "showcalendarlink", "calendar","https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=360&amp;wkst=1&amp;src=kmendelin%40gmail.com&amp;ctz=America%2FNew_York")'>show calendar</a>
+          <a id="showcalendarlink" style="" href='javascript:toggleVisible("calendar", "showcalendarlink", "event calendar","https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=360&amp;wkst=1&amp;src=kmendelin%40gmail.com&amp;ctz=America%2FNew_York")'>show event calendar</a>
         </td>
       </tr>
     </table>
   <center>
     <iframe id="calendar" src="" style="display:none;border-width:0px;margin-top:5px;" width="480" height="360" frameborder="0" scrolling="no"></iframe>
   </center>
-  
-    <br />
-    <h2>Build 2008</h2>
-    Our 2008 build took place at 1150 Kipps Lane in London, ON. <span class="caption">
-      [<a id="showmaplink" style="font-size:10px" href='javascript:toggleVisible("buildmap", "showmaplink", "map","http://maps.google.ca/maps?hl=en&amp;safe=off&amp;client=firefox-a&amp;q=1150+Kipps+Lane+in+London,+on&amp;ie=UTF8&amp;s=AARTsJqETRJQc2t9aGXURvB1L4yMsrjJmA&amp;ll=43.004647,-81.2463&amp;spn=0.075321,0.145912&amp;z=12&amp;output=embed")'>show map</a>]
-    </span>
-    <iframe id="buildmap" style="display:none;margin:5px;" width="440" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=""></iframe>
-    Construction was a huge success thanks to our many volunteers and partners.
-
-    <div align="center" style="margin:9px">
-      <a href="http://www.flickr.com/photos/habitatlondon/2004832031/" title="IMG_1865 by Habitat for Humanity London Inc., on Flickr">
-        <img src="http://farm3.static.flickr.com/2131/2004832031_86d0232c32_m.jpg" width="240" height="180" alt="IMG_1865" />
+  <div align="center" style="margin-top:28px">
+    Find much more Habitat London news on <br/><a href="http://habitat-for-humanity-london.blogspot.com/">Blogger</a>
+    and <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">Facebook</a>!
+    <div style="margin-top:10px">
+      <a href="http://habitat-for-humanity-london.blogspot.com/">
+        <img width="86" height="26" src="images/logo_blogger.png" border="0"/>
       </a>
-      <div class="caption">A few of our Build 2008 volunteers!</div>
+      <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">
+        <img width="85" height="26" src="images/logo_facebook.png" border="0"/>
+      </a>
     </div>
+  </div>
 
-
-  </article>
+</article>
   <sidebar>
 
     <div id="partners" style="z-index:0">
@@ -147,10 +132,18 @@ Please give generously to help us build a better community.
         <a href="partners.html">Click here</a> for a complete list of <br />our local corporate partners.
       </div>
     </div>
-    <div class="hr"></div>
+    <!--div class="hr"></div>
     <div style="margin:8px 0px">
       <div align="center">
           Special thanks to <br/><a href="http://www.mistertees.com/">Mister Tees</a> and <a href="http://www.deltahotels.ca/hotels/hotels.php?hotelId=12">The Delta</a>.
+      </div>
+    </div-->
+    <div class="hr"></div>
+    <div style="margin:8px 0px;margin-bottom:0px">
+      <div align="center">
+        <a href="donate.html">
+          <img src="images/donatenow.jpg" alt="" width="150" height="188"/>
+        </a>
       </div>
     </div>
     <div class="hr"></div>
@@ -164,20 +157,7 @@ Please give generously to help us build a better community.
         </div>
       </div>
     </div>
-    <div class="hr"></div>
 
-    <div align="center" style="margin-top:18px">
-      Follow Habitat London on <br/><a href="http://habitat-for-humanity-london.blogspot.com/">Blogger</a>
-      and <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">Facebook</a>!
-      <div style="margin-top:10px">
-        <a href="http://habitat-for-humanity-london.blogspot.com/">
-          <img width="86" height="26" src="images/logo_blogger.png" border="0"/>
-        </a>
-        <a href="http://www.facebook.com/pages/Habitat-For-Humanity-London-Ontario-Canada/116282705845">
-          <img width="85" height="26" src="images/logo_facebook.png" border="0"/>
-        </a>
-      </div>
-    </div>
     <!-- div align="center" style="margin-top:18px;">
       <a href="newsletter/newsletter-2009-03-March.pdf">
         <img alt="" border="0" src="images/newsletterpreview.jpg" width="130" height="185"/>

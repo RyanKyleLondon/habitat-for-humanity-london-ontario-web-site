@@ -60,7 +60,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                 <a href="contact.html">Contact</a> &#8226;
                 <a href="http://habitat-for-humanity-london.blogspot.com/">Blog</a> &#8226;
                 <a href="http://www.londonrestore.com/">ReStore</a> &#8226;
-                <a href="http://www.flickr.com/photos/habitatlondon/">Photo</a>  &#8226;
+                <a href="http://www.facebook.com/photos.php?id=116282705845">Photo</a>  &#8226;
                 <a href="media.html">Media</a>
               </div>
               <a href="index.html">
@@ -147,7 +147,7 @@ function toggleVisible(targetName, linkName, typeOfTarget, targetSrc) {
                       <a href="stories.html">Family Stories</a>
                     </li>
                     <li>
-                      <a href="housing.html">How to Apply</a>
+                      <a href="housing.html">How to Apply...</a>
                     </li>
                   </ul>
                 </li>
