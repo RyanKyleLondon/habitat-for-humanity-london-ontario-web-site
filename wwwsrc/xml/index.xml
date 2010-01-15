@@ -11,8 +11,13 @@
 <div style="font-style:italic;margin-bottom:2px;margin-top:4px;">
   Welcome to Habitat for Humanity in London, Ontario, Canada.
 </div>
-<br />
-
+  <h2>Donations Provide Aid for Haiti</h2>
+  From Jan 12 to Feb 12, Canada will match each dollar donated to 
+  Canadian charitable organizations to support humanitarian and early
+  recovery assistance to people affected by the earthquake in Haiti.
+  <a href="http://www.acdi-cida.gc.ca/acdi-cida/ACDI-CIDA.nsf/eng/CEC-11475659-H7P">Read the announcement here</a>.
+  <br />
+  
   <!--
   <h2>Build 2009 is almost ready!</h2>
   The build will be at <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=178+Springbank+Drive,+London,+ON&amp;sll=37.0625,-95.677068&amp;sspn=40.732051,26.894531&amp;ie=UTF8&amp;ll=42.982423,-81.267757&amp;spn=0.036607,0.080767&amp;z=14&amp;iwloc=A">178 Springbank Dr</a> and kicks off <em>September 12</em>.
@@ -36,6 +41,14 @@
   </span>
   </h2>
     <table id="news" cellpadding="0" border="0">
+      <tr>
+        <td class="date">
+          <b>Jan 14</b>
+        </td>
+        <td>
+          Habitat sends relief in response to Haiti earthquake (<a href="http://habitat.ca/habitatforhumanitytohelpinhaitiaftermajorearthquakep3419.php">details here</a>).
+        </td>
+      </tr>
       <tr>
         <td class="date">
           <b>Nov 28</b>
