@@ -77,27 +77,27 @@
     <div style="position:relative;height:140px;margin-top:20px;">
       <div style="position:absolute;width:200px;left:65px;">
         <h2>London Office</h2>
-        <div style="padding-top:6px;">
+        <div style="padding-top:3px;">
+          <span class="caption"><b>Open Mon-Fri 9-4:30.</b></span>
+          <div style="font-size:5px;height:5px;"> </div>
           (519) 659-1949<br/>
           (519) 455-8479 (fax)<br/>
           <div style="height:5px"></div>
           Unit 11, 45 Pacific Ct,<br/>
           London, ON, N5V 3N4.<br/>
-          <div style="font-size:5px;height:5px;"> </div>
-          <span class="caption">Open Mon-Fri 9-4:30.</span>
         </div>
       </div>
 
       <div style="position:absolute;width:280px;left:390px;">
         <h2>ReStore Showroom</h2>
-        <div style="position:relative;padding-top:6px;">
+        <div style="position:relative;padding-top:3px;">
+          <span class="caption"><b>Open Mon-Fri 9-6, Sat 9-4 except holidays.</b></span>
+          <div style="font-size:5px;height:5px;"> </div>
           519-659-1949<br/>
           519-455-8479 (fax)<br/>
           <div style="height:5px"></div>
           Unit 6, 45 Pacific Ct,<br/>
           London, ON, N5V 3N4.<br/>
-          <div style="font-size:5px;height:5px;"> </div>
-          <span class="caption">Open Mon-Fri 9-5:30, Sat 9-4 except holidays.</span>
         </div>
       </div>
     </div>
